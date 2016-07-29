@@ -18,6 +18,8 @@ namespace OOPS
             string u = "This Is Test3";
 
             string i = "This Is Test4";
+
+            string sai = "Sai Test";
         }
     }
 }
