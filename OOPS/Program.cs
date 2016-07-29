@@ -14,6 +14,8 @@ namespace OOPS
             string s = "This Is Test";
 
             string t = "This Is Test2";
+
+            string u = "This Is Test3";
         }
     }
 }
